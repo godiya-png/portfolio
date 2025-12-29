@@ -1,0 +1,7 @@
+{
+  "name": "AgroScholar Pro",
+  "description": "A high-end, responsive academic portfolio for professors in Agricultural Science, featuring AI-powered content refinement and dynamic skill management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
